@@ -1,19 +1,19 @@
-<<<<<<< HEAD
-# React + Vite
+# Portfolio en React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un portafolio personal creado utilizando React y Vite. Un portafolio es una forma de mostrar tus habilidades, proyectos y experiencia de una manera visual y organizada, ayudando a potenciales empleadores o colaboradores a conocerte mejor.
 
-Currently, two official plugins are available:
+## Características del portafolio:
+- **Proyectos**: Incluye una lista de proyectos en los que he trabajado, con descripciones y enlaces.
+- **Habilidades**: Muestra las tecnologías y herramientas con las que tengo experiencia.
+- **Contacto**: Sección para que los visitantes puedan ponerse en contacto conmigo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# React + Vite
+## Tecnologías utilizadas:
+- **React**: Librería de JavaScript para construir interfaces de usuario.
+- **Vite**: Un compilador rápido y moderno para proyectos web.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Puedes ver el portafolio en acción o clonar el repositorio para personalizarlo según tus necesidades.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 62da0dd248263d76354c1154346fb33d4399393f
+## Instrucciones para ejecutar el proyecto localmente:
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/react-portfolio.git
