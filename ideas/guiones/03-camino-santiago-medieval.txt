@@ -1,6 +1,6 @@
 PORTAL MEDIEVAL — GUION: EL CAMINO DE SANTIAGO HACE 800 AÑOS: ¿CUÁNTO HABRÍAS DURADO TÚ?
 Pilares: vida cotidiana + religión (sin polémica) · Tono: cercano, en segunda persona («tú»)
-Palabras narradas aprox.: 1.850 · Duración estimada: ≈ 12:30-13:00 a 150 ppm (voz a 0,94), contando las pausas de capítulo.
+Palabras narradas aprox.: 1.420 · Duración estimada: ≈ 9:45-10:15 a 150 ppm (voz a 0,94), contando las pausas de capítulo.
 Mecánica de retención: el espectador juega. En cada capítulo hay una PRUEBA y se apunta puntos. Al final suma y descubre «cuánto habría durado». Así se queda hasta el final para saber su resultado.
 
 CÓMO LEER ESTE ARCHIVO
@@ -204,16 +204,16 @@ Porque esto es lo que casi nadie piensa: en 1225 no había un tren de vuelta. El
 [RESULTADO: ¿CUÁNTO HABRÍAS DURADO?]  (≈ 11:15)
 
 ▸ Pantalla con el marcador grande y tres niveles que se iluminan uno a uno.
-Vale. Suma tus puntos. Como mucho puedes tener 10.
+Vale. Suma tus puntos. Como mucho puedes tener 9.
 
 ▸ Nivel 1: un peregrino sentado junto al camino, mirando el suelo.
 Si tienes 3 o menos: lo siento. Probablemente te habrías quedado en los Pirineos… o en el primer bosque.
 
 ▸ Nivel 2: un peregrino cojeando, pero de pie, frente a las torres lejanas.
-Entre 4 y 7: habrías llegado a Santiago. Cojeando, más delgado y con alguna historia que contar… pero habrías llegado.
+Entre 4 y 6: habrías llegado a Santiago. Cojeando, más delgado y con alguna historia que contar… pero habrías llegado.
 
 ▸ Nivel 3: un peregrino con la venera en el sombrero, entrando de vuelta en su aldea.
-8 o más: no solo habrías llegado. Habrías vuelto a casa para contarlo. Y en la Edad Media, eso era lo más difícil de todo.
+7 o más: no solo habrías llegado. Habrías vuelto a casa para contarlo. Y en la Edad Media, eso era lo más difícil de todo.
 
 -----------------------------------------------------
 
@@ -238,7 +238,7 @@ Peregrino medieval de espaldas en un paso de montaña nevado, con bordón y cala
 Primer plano de unos pies con sandalias gastadas y heridos sobre una calzada de piedra; al lado, una concha de vieira. Texto: «1.500 KM A PIE».
 
 3. 0 / 10
-Marcador de puntos estilo pergamino con «? / 10» y la silueta del peregrino. Texto: «¿CUÁNTO DURARÍAS?».
+Marcador de puntos estilo pergamino con «? / 9» y la silueta del peregrino. Texto: «¿CUÁNTO DURARÍAS?».
 
 NOTA: marca «contenido alterado o sintético» al subir si las imágenes son fotorrealistas.
 
